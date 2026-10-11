@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Uday Patil 👋
 
-<!--
-**udaypatil-3421/udaypatil-3421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Electronics Science Student
 
-Here are some ideas to get you started:
+💻 Interested in Embedded Systems, Firmware Development, and Digital Electronics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Interests
+- Embedded C and Microcontrollers
+- STM32, AVR , ARM7, and Arduino
+- FPGA and VHDL
+- Hardware Interfacing and PCB Design
+
+### Currently Learning
+- Embedded Systems Development
+- Microcontroller Programming
+- Project Development and Documentation
+
+### Goals
+To build practical electronics projects, improve my technical skills, and develop reliable embedded systems.
+
+Thanks
